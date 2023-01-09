@@ -1,3 +1,3 @@
 # Practica_1
 
-Repositotio con lo dataframe para todas las actividades del tutorial de mineria de datos
+Repositorio con lo dataframe para todas las actividades del tutorial de minería de datos
